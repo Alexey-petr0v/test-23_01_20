@@ -31,4 +31,4 @@ $RECYCLE.BIN/
 
 temp/
 
-!/temp/*.doc
+temp/!*.doc
